@@ -37,6 +37,5 @@ LangChain is a powerful framework that enables developers to build applications 
 - **Flexibility**: The LangChain ecosystem is modular, allowing developers to combine and customize components for their specific needs.
 
 This ecosystem makes building and managing LLM-powered applications easier, providing all the necessary tools and support to create powerful solutions.
-[]!(https://miro.medium.com/v2/resize:fit:1200/1*JXGXf0GdEGn6ieUml25pIQ.png)
-
+https://miro.medium.com/v2/resize:fit:1200/1*JXGXf0GdEGn6ieUml25pIQ.png
 
