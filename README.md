@@ -28,7 +28,7 @@ LangChain is a powerful framework that enables developers to build applications 
 
 8. **Model I/O and Retriever**
    - This component handles input and output operations of models and agents. It is responsible for tooling and retrieving information needed for tasks.
-https://th.bing.com/th/id/OIP.NygRL_uefIJtaUmdZsFKMgAAAA?rs=1&pid=ImgDetMain
+![]https://th.bing.com/th/id/OIP.NygRL_uefIJtaUmdZsFKMgAAAA?rs=1&pid=ImgDetMain
 ## Key Takeaways
 
 - **LLMops**: Operational practices for managing LLMs, with Langsmith providing tools for analytics.
