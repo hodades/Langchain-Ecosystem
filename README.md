@@ -1,6 +1,9 @@
 # Understanding LangChain Ecosystem
 
 LangChain is a powerful framework that enables developers to build applications using language models (LLMs) more effectively. This ecosystem comprises various components designed to enhance the development, monitoring, and usage of LLM-based applications. Let's explore the different elements of the LangChain ecosystem in simple terms.
+# Documentation: 
+https://python.langchain.com/docs/introduction/
+
 ![image](https://github.com/user-attachments/assets/d6ee5e14-d6b6-4c9d-a065-43ac6c767ef7)
 
 ## Components of LangChain
